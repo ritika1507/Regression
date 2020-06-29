@@ -1,1 +1,1 @@
-This is the first regression model that I implemented as an assignment in a data science training.
+This is the first regression model that I implemented as an assignment in a data science training. The problem statement , the data sets used both training and test , the solution checker and the jupyter notebook in which the model was implemented has been provided here.
